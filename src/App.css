@@ -1,5 +1,5 @@
 .App {
-  height: 100vh;
+  height:auto;
   padding-top: 10px;
   background-color: #1b1b32;
   font-family: Lato, sans-serif;
@@ -16,6 +16,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
 
 .freecodecamp-logo {
