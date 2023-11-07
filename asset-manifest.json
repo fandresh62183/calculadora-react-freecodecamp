@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculadora-react-freecodecamp/static/css/main.260b1853.css",
+    "main.js": "/calculadora-react-freecodecamp/static/js/main.7fd5ca03.js",
+    "index.html": "/calculadora-react-freecodecamp/index.html",
+    "main.260b1853.css.map": "/calculadora-react-freecodecamp/static/css/main.260b1853.css.map",
+    "main.7fd5ca03.js.map": "/calculadora-react-freecodecamp/static/js/main.7fd5ca03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260b1853.css",
+    "static/js/main.7fd5ca03.js"
+  ]
+}
